@@ -1,2 +1,2 @@
 # Movie-Recommendation
-Movie Recommendation System Using Cosine Similarity on a movie dataset.
+Movie Recommendation System using Cosine Similarity on a Movie Dataset.
